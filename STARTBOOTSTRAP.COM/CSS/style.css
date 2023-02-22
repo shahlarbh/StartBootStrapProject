@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    background-image: url(https://html.sammy-codes.com/images/background.jpg);
+    padding: 11.36rem 0;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.first h1{
+    color: #212529;
+    font-size: 6rem;
+    margin-left: 5rem;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.first h3{
+    color: #212529;
+    font-size: 1.9rem;
+    margin-left: 5rem;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.first a{
+    text-decoration: none;
+    border: 1px solid #1D809F;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 3rem;
+    padding: 20px 40px;
+    color: #FFFFFF;
+    background-color: #1D809F;
+    font-weight: 400;
+    transition: .8s;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.first a:hover{
+background-color: #12669e;
+}
+
+.second{
+    text-align: center;
+    padding-top: 7.5rem;
+    padding-bottom: 7.5rem;
+    background-color: whitesmoke;
+    background-attachment: fixed;
+}
+
+.second h1{
+    color: #212529;
+    font-size: 2rem;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.second p{
+    color: #212529;
+    font-weight: 300;
+    font-size: 1.2rem;
+    color: grey;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.second p span{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #1D809F;
+}
+
+.second a{
+    text-decoration: none;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 3rem;
+    padding: 20px 40px;
+    color: #FFFFFF;
+    background-color: #413f3f;
+    font-weight: 400;
+    transition: .8s;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.second a:hover{
+    background-color: #000000;
+}
+
+.third{
+    background-image: url(https://w0.peakpx.com/wallpaper/185/655/HD-wallpaper-gray-scissor-with-envelope-and-pencils.jpg);
+    padding: 13.5rem 0;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.third h1{
+    color: #212529;
+    font-size: 3rem;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.third a{
+    text-decoration: none;
+    border: 1px solid #1D809F;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    padding: 20px 40px;
+    color: #FFFFFF;
+    background-color: #1D809F;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-weight: 400;
+    transition: .8s;
+}
+
+.third a:hover{
+    background-color: #12669e;
+}
+
+iframe{
+        width: 100%;
+        height: 480px;
+}
